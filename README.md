@@ -1,1 +1,1 @@
-# react-myreads
+# MyReads Project
