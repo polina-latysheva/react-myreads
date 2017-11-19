@@ -36,8 +36,7 @@ To get started developing right away:
     ├── ListBooks #
     ├── index.css # Global styles.
     ├── index.js # It is used for DOM rendering only.
-    ├── SearchBook #
-    └── ShelfLists.js #
+    └── SearchBook #
 ```
 
 Remember that good React design practice is to create new JS files for each component and use import/require statements to include them where they are needed.
